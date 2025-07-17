@@ -1,0 +1,5 @@
+sounddevice
+scipy
+opencv-python
+pyttsx3
+
